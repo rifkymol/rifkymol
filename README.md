@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @rifkymol
-- 👀 I’m interested in backend development
+- 👋 Hi, I’m @rifkymol, i'm Backend Engineer
+- 👀 I’m interested in solving problem and make better solution.
+- 💻 Currently working with wordpress and laravel
 - 🌱 I’m currently learning Node.Js
 - 📫 How to reach me : email - rifkymaulana123@gmail.com
 
