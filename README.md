@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rifkymol, i'm Backend Engineer
-- 👀 I’m interested in solving problem and make better solution.
-- 💻 Currently working with wordpress and laravel
-- 🌱 I’m currently learning Node.Js
+- 👋 Hi, My name is Rifky Maulana, but alot of my friends called me @rifkymol, i'm a software engineer
+- 👀 I really like finding solutions to problems, tryng to keep learning from anywhere and anyone!
+- 💻 Currently working with Wordpress and Laravel
+- 🌱 I’m currently learning Node.Js and React
 - 📫 How to reach me : email - rifkymaulana123@gmail.com
 
 <!---
