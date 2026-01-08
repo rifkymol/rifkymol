@@ -1,3 +1,5 @@
+https://rifkymol.github.io
+
 - 👋 Hi, My name is Rifky Maulana, but alot of my friends called me @rifkymol, i'm a software engineer
 - 👀 I really like finding solutions to problems, tryng to keep learning from anywhere and anyone!
 - 💻 Currently working with Wordpress and Laravel
